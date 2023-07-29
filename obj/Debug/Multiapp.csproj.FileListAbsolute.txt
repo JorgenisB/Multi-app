@@ -1,0 +1,26 @@
+C:\Users\Wustock\OneDrive - Instituto Tecnológico de Las Américas (ITLA)\Escritorio\PC\ITLA\4. Cuarto Cuatrimestre\Programacion 2\T3\Multiapp\Multiapp\bin\Debug\Multiapp.exe.config
+C:\Users\Wustock\OneDrive - Instituto Tecnológico de Las Américas (ITLA)\Escritorio\PC\ITLA\4. Cuarto Cuatrimestre\Programacion 2\T3\Multiapp\Multiapp\bin\Debug\Multiapp.exe
+C:\Users\Wustock\OneDrive - Instituto Tecnológico de Las Américas (ITLA)\Escritorio\PC\ITLA\4. Cuarto Cuatrimestre\Programacion 2\T3\Multiapp\Multiapp\bin\Debug\Multiapp.pdb
+C:\Users\Wustock\OneDrive - Instituto Tecnológico de Las Américas (ITLA)\Escritorio\PC\ITLA\4. Cuarto Cuatrimestre\Programacion 2\T3\Multiapp\Multiapp\obj\Debug\Multiapp.csproj.AssemblyReference.cache
+C:\Users\Wustock\OneDrive - Instituto Tecnológico de Las Américas (ITLA)\Escritorio\PC\ITLA\4. Cuarto Cuatrimestre\Programacion 2\T3\Multiapp\Multiapp\obj\Debug\Multiapp.csproj.SuggestedBindingRedirects.cache
+C:\Users\Wustock\OneDrive - Instituto Tecnológico de Las Américas (ITLA)\Escritorio\PC\ITLA\4. Cuarto Cuatrimestre\Programacion 2\T3\Multiapp\Multiapp\obj\Debug\Multiapp.Form1.resources
+C:\Users\Wustock\OneDrive - Instituto Tecnológico de Las Américas (ITLA)\Escritorio\PC\ITLA\4. Cuarto Cuatrimestre\Programacion 2\T3\Multiapp\Multiapp\obj\Debug\Multiapp.Notepad.resources
+C:\Users\Wustock\OneDrive - Instituto Tecnológico de Las Américas (ITLA)\Escritorio\PC\ITLA\4. Cuarto Cuatrimestre\Programacion 2\T3\Multiapp\Multiapp\obj\Debug\Multiapp.Paint.resources
+C:\Users\Wustock\OneDrive - Instituto Tecnológico de Las Américas (ITLA)\Escritorio\PC\ITLA\4. Cuarto Cuatrimestre\Programacion 2\T3\Multiapp\Multiapp\obj\Debug\Multiapp.Properties.Resources.resources
+C:\Users\Wustock\OneDrive - Instituto Tecnológico de Las Américas (ITLA)\Escritorio\PC\ITLA\4. Cuarto Cuatrimestre\Programacion 2\T3\Multiapp\Multiapp\obj\Debug\Multiapp.csproj.GenerateResource.cache
+C:\Users\Wustock\OneDrive - Instituto Tecnológico de Las Américas (ITLA)\Escritorio\PC\ITLA\4. Cuarto Cuatrimestre\Programacion 2\T3\Multiapp\Multiapp\obj\Debug\Multiapp.csproj.CoreCompileInputs.cache
+C:\Users\Wustock\OneDrive - Instituto Tecnológico de Las Américas (ITLA)\Escritorio\PC\ITLA\4. Cuarto Cuatrimestre\Programacion 2\T3\Multiapp\Multiapp\obj\Debug\Multiapp.exe
+C:\Users\Wustock\OneDrive - Instituto Tecnológico de Las Américas (ITLA)\Escritorio\PC\ITLA\4. Cuarto Cuatrimestre\Programacion 2\T3\Multiapp\Multiapp\obj\Debug\Multiapp.pdb
+D:\Cuatrimestre 4 Itla\Programacion 2\multiapp\Multiapp\Multiapp\bin\Debug\Multiapp.exe.config
+D:\Cuatrimestre 4 Itla\Programacion 2\multiapp\Multiapp\Multiapp\bin\Debug\Multiapp.exe
+D:\Cuatrimestre 4 Itla\Programacion 2\multiapp\Multiapp\Multiapp\bin\Debug\Multiapp.pdb
+D:\Cuatrimestre 4 Itla\Programacion 2\multiapp\Multiapp\Multiapp\obj\Debug\Multiapp.csproj.AssemblyReference.cache
+D:\Cuatrimestre 4 Itla\Programacion 2\multiapp\Multiapp\Multiapp\obj\Debug\Multiapp.csproj.SuggestedBindingRedirects.cache
+D:\Cuatrimestre 4 Itla\Programacion 2\multiapp\Multiapp\Multiapp\obj\Debug\Multiapp.Form1.resources
+D:\Cuatrimestre 4 Itla\Programacion 2\multiapp\Multiapp\Multiapp\obj\Debug\Multiapp.Notepad.resources
+D:\Cuatrimestre 4 Itla\Programacion 2\multiapp\Multiapp\Multiapp\obj\Debug\Multiapp.Paint.resources
+D:\Cuatrimestre 4 Itla\Programacion 2\multiapp\Multiapp\Multiapp\obj\Debug\Multiapp.Properties.Resources.resources
+D:\Cuatrimestre 4 Itla\Programacion 2\multiapp\Multiapp\Multiapp\obj\Debug\Multiapp.csproj.GenerateResource.cache
+D:\Cuatrimestre 4 Itla\Programacion 2\multiapp\Multiapp\Multiapp\obj\Debug\Multiapp.csproj.CoreCompileInputs.cache
+D:\Cuatrimestre 4 Itla\Programacion 2\multiapp\Multiapp\Multiapp\obj\Debug\Multiapp.exe
+D:\Cuatrimestre 4 Itla\Programacion 2\multiapp\Multiapp\Multiapp\obj\Debug\Multiapp.pdb
